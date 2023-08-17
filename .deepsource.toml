@@ -1,12 +1,6 @@
 version = 1
 
 [[analyzers]]
-name = "test-coverage"
-
-[[analyzers]]
-name = "javascript"
-
-[[analyzers]]
 name = "python"
 
   [analyzers.meta]
